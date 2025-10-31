@@ -59,7 +59,7 @@ It involves collecting, organizing, and analyzing infrastructure project data (r
 ## 📸 9. Screenshots or Demo
 
 ### 📊 Dashboard Overview  
-![Dashboard Overview]()
+<img width="1565" height="922" alt="Image" src="https://github.com/user-attachments/assets/5e08e4e3-c642-4344-90d5-23f17b26d123" />
 
 
 
